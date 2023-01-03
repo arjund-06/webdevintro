@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+    padding: 100px;
+}
+
+input {
+    margin: 10px;
+}
+
+#testForm1 span {
+    color: crimson;
+}
+
+.form1 {
+    font-size: 30px;
+}
+
+#ip1 {
+    color: red;
+    background-color: cadetblue;
+}
